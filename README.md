@@ -24,7 +24,8 @@
    const rsi = new RSI(data, 14);
    const result = rsi.calculate();
 ```
-##Output:
+
+# Output:
 
 ```
    [
