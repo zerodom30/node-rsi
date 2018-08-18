@@ -1,6 +1,6 @@
 # node-rsi
 
-A simple node module to calculate the Relative Strength Index and avoids JavaScript precision issues.
+A simple node module to calculate the Relative Strength Index and avoid JavaScript precision issues.
 
 # Usage:
 
