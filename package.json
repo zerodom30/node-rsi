@@ -1,7 +1,7 @@
 {
   "name": "node-rsi",
   "version": "1.0.0",
-  "description": "TA, technical analysis, relative strength index, nodejs, node, js, javascript, async",
+  "description": "Simple nodejs module to calculate RSI and avoid math precision issues",
   "main": "index.js",
   "scripts": {
     "test": "nyc mocha tests/*"
@@ -9,7 +9,7 @@
   "engines": {
     "node": ">=v8.0.0"
   },
-  "tags": {},
+  "keywords": ["TA", "technical analysis", "relative strength index", "rsi", "nodejs", "node", "js", "javascript", "async"],
   "author": "domgautier",
   "license": "MIT",
   "dependencies": {
