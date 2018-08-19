@@ -50,3 +50,8 @@ A simple node module to calculate the Relative Strength Index and avoid JavaScri
         */
    });
 ```
+
+###### Commit Message With Emoji Prefix
+See reference [here](https://gist.github.com/parmentf/035de27d6ed1dce0b36a)
+ inspiration & reference by
+  [dannyfritz/commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji).
