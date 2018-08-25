@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/zerodom30/node-rsi/badge.svg?branch=master)](https://coveralls.io/github/zerodom30/node-rsi?branch=master)
+
 # node-rsi
 
 A simple node module to calculate the Relative Strength Index and avoid JavaScript precision issues.
