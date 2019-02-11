@@ -4,7 +4,7 @@
   "description": "Simple nodejs module to calculate RSI and avoid math precision issues",
   "main": "index.js",
   "scripts": {
-    "test": "nyc mocha tests/* && nyc report --reporter=text-lcov",
+    "test": "nyc mocha tests/* && nyc report --reporter=text-lcov | coveralls ",
     "precommit": "npm t"
   },
   "engines": {
