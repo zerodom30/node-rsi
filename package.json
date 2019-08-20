@@ -24,14 +24,14 @@
   "author": "domgautier",
   "license": "MIT",
   "dependencies": {
-    "async": "^2.6.1",
-    "decimal.js": "^10.0.1",
-    "lodash": "^4.17.11"
+    "async": "^2.6.3",
+    "decimal.js": "^10.2.0",
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
-    "coveralls": "^3.0.2",
+    "coveralls": "^3.0.6",
     "husky": "^0.14.3",
-    "lint-staged": "^7.2.2",
+    "lint-staged": "^7.3.0",
     "mocha": "^5.2.0",
     "nyc": "^12.0.2",
     "should": "^13.2.3"
