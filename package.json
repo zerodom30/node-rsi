@@ -26,7 +26,7 @@
   "dependencies": {
     "async": "^2.6.3",
     "decimal.js": "^10.2.0",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {
     "coveralls": "^3.0.6",
