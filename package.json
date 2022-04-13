@@ -24,7 +24,7 @@
   "author": "domgautier",
   "license": "MIT",
   "dependencies": {
-    "async": "^2.6.3",
+    "async": "^3.2.2",
     "decimal.js": "^10.2.0",
     "lodash": "^4.17.21"
   },
